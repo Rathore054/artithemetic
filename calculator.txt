@@ -1,0 +1,4 @@
+claass calc{
+main{
+}
+}
